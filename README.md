@@ -15,3 +15,7 @@ It helps students and visitors get quick answers about **class schedules, facili
 ---
 
 ## 📂 Project Structure  
+screenshots
+<img width="927" height="420" alt="image" src="https://github.com/user-attachments/assets/31c66c06-e683-4bc4-ba86-bf9a69faae42" />
+
+
